@@ -1,0 +1,5 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=3672
+
+This file adds syntax highlighting for Genshi plain text templates (see vimscript #1869 for XML template support).
+
+See: http://genshi.edgewall.org/wiki/Documentation/text-templates.html
